@@ -1,6 +1,6 @@
 # 🌟 Proyecto de Taller 3 - Integración y Despliegue
 
-![GitHub repo](https://img.shields.io/github/repo-size/nico-alvz/taller3?style=flat-square) ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/nico-alvz/taller3/backend.yml?style=flat-square)
+![GitHub repo](https://img.shields.io/github/repo-size/nico-alvz/taller3?style=flat-square)
 
 Este repositorio contiene los componentes necesarios para el proyecto de Taller 3:
 
