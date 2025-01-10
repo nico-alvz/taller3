@@ -6,7 +6,8 @@
     "babel-node": "babel-node --presets=@babel/preset-env",
     "build": "babel src/index.js -d dist",
     "dev": "sequelize db:drop && sequelize db:create && sequelize db:migrate && sequelize db:seed:all && nodemon --exec npm run babel-node -- src/index.js",
-    "test": "jest main.test.js"
+    "test": "jest main.test.js",
+    "start": "node index.js"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
