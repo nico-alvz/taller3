@@ -7,7 +7,7 @@ Este proyecto consta de dos componentes principales:
 
 ## URLs del proyecto
 
-- **Frontend:** [https://arq-sistemas-t3.web.app/login](https://arq-sistemas-t3.web.app/login)
+- **Frontend:** [https://arq-sistemas-t3.web.app](https://arq-sistemas-t3.web.app/login)
 - **Backend:** [https://backend-taller3-pn3v.onrender.com/](https://backend-taller3-pn3v.onrender.com/)
 
 ---
