@@ -8,4 +8,5 @@ RUN npm install
 COPY . .
 
 EXPOSE 3000
-CMD ["npm", "start"]
+
+CMD ["sh", "-c", "npx sequelize db:create && npx sequelize db:migrate && npx sequelize db:seed:all && npm start"]
